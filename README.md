@@ -11,4 +11,3 @@
 😄 Pronombres: él.
 
 ⚡ Dato curioso: Me encanta aplicar conceptos de la informática para resolver problemas cotidianos en la enseñanza y el mundo empresarial.
-
