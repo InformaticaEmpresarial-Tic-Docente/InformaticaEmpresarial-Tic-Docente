@@ -1,13 +1,17 @@
-👋 Hola, soy Victoriano Dominguez Henriquez.
+**GitHub Profile:**
 
-👀 Estoy interesado en la integración de tecnologías de la información en la educación, así como en el desarrollo de herramientas digitales empresariales.
+👋 ¡Hola! Soy **Victoriano Domínguez Henríquez**, un apasionado desarrollador con más de 15 años de experiencia en el campo de la informática y la educación. Me especializo en el **desarrollo de aplicaciones web** utilizando tecnologías como **HTML5, CSS3 y JavaScript**, creando soluciones eficientes y escalables para diversas plataformas.
 
-🌱 Actualmente estoy aprendiendo nuevas metodologías de enseñanza digital y técnicas avanzadas de programación web.
+Mi enfoque está en combinar la funcionalidad con una excelente experiencia de usuario, optimizando el rendimiento y la accesibilidad. Además, tengo experiencia trabajando con **frameworks y bibliotecas de JavaScript** como **React.js**, **Node.js**, **Angular**, y **Vue.js**, lo que me permite desarrollar aplicaciones web dinámicas, interactivas y modernas. A lo largo de mi carrera, he trabajado en proyectos de **diseño web**, **plataformas educativas** y **aplicaciones interactivas**, tanto para instituciones educativas como empresas.
 
-💞️ Estoy buscando colaborar en proyectos que combinen la educación con las tecnologías emergentes, como inteligencia artificial y analítica de datos.
+🚀 **Habilidades principales:**
+- Desarrollo web con **HTML5**, **CSS3**, **JavaScript**.
+- Experiencia en frameworks como **React.js**, **Node.js**, **Angular**, **Vue.js**.
+- Creación de plataformas educativas y soluciones tecnológicas innovadoras.
+- Optimización de interfaces intuitivas y dinámicas.
 
-📫 Puedes contactarme a través de mi correo electrónico: sigcompv@gmail.com o en LinkedIn: www.linkedin.com/in/victoriano-dominguez-henríquez-614785144.
+📫 Puedes ponerte en contacto conmigo a través de:  
+📧 **Email**: sigcompv@gmail.com  
+📞 **Tel.**: 809-816-4403  
 
-😄 Pronombres: él.
-
-⚡ Dato curioso: Me encanta aplicar conceptos de la informática para resolver problemas cotidianos en la enseñanza y el mundo empresarial.
+¡Siempre estoy abierto a colaborar en nuevos proyectos y a compartir conocimiento con la comunidad!
