@@ -1,4 +1,8 @@
-{% raw %}
+# Google Analytics en una Página Web
+
+Este es un ejemplo de cómo integrar Google Analytics en un sitio web usando el código de seguimiento.
+
+```html
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RVH8HYS47P"></script>
 <script>
@@ -8,7 +12,7 @@
 
   gtag('config', 'G-RVH8HYS47P');
 </script>
-{% endraw %}
+
 
 **GitHub Profile:**
 
