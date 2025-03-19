@@ -1,19 +1,3 @@
-# Google Analytics en una Página Web
-
-Este es un ejemplo de cómo integrar Google Analytics en un sitio web usando el código de seguimiento.
-
-```html
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-RVH8HYS47P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-RVH8HYS47P');
-</script>
-
-
 **GitHub Profile:**
 
 👋 ¡Hola! Soy **Victoriano Domínguez Henríquez**, un apasionado desarrollador con más de 15 años de experiencia en el campo de la informática y la educación. Me especializo en el **desarrollo de aplicaciones web** utilizando tecnologías como **HTML5, CSS3 y JavaScript**, creando soluciones eficientes y escalables para diversas plataformas.
