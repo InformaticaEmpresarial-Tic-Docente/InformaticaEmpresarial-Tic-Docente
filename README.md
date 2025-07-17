@@ -1,17 +1,58 @@
-**GitHub Profile:**
+# 👨‍💻 Victoriano Domínguez Henríquez | Profesor-Desarrollador
 
-👋 ¡Hola! Soy **Victoriano Domínguez Henríquez**, un apasionado desarrollador con más de 15 años de experiencia en el campo de la informática y la educación. Me especializo en el **desarrollo de aplicaciones web** utilizando tecnologías como **HTML5, CSS3 y JavaScript**, creando soluciones eficientes y escalables para diversas plataformas.
+**📍 La Romana, República Dominicana**  
+**📧 sigcompv@gmail.com | 📞 809-816-4403**
 
-Mi enfoque está en combinar la funcionalidad con una excelente experiencia de usuario, optimizando el rendimiento y la accesibilidad. Además, tengo experiencia trabajando con **frameworks y bibliotecas de JavaScript** como **React.js**, **Node.js**, **Angular**, y **Vue.js**, lo que me permite desarrollar aplicaciones web dinámicas, interactivas y modernas. A lo largo de mi carrera, he trabajado en proyectos de **diseño web**, **plataformas educativas** y **aplicaciones interactivas**, tanto para instituciones educativas como empresas.
+## 🚀 Sobre Mí
 
-🚀 **Habilidades principales:**
-- Desarrollo web con **HTML5**, **CSS3**, **JavaScript**.
-- Experiencia en frameworks como **React.js**, **Node.js**, **Angular**, **Vue.js**.
-- Creación de plataformas educativas y soluciones tecnológicas innovadoras.
-- Optimización de interfaces intuitivas y dinámicas.
+Profesional técnico con **+30 años de experiencia** combinando **docencia informática** y **desarrollo de soluciones tecnológicas**. Especialista en:
 
-📫 Puedes ponerte en contacto conmigo a través de:  
+- Desarrollo de **plataformas educativas** (Moodle)
+- Creación de **páginas web institucionales**
+- **Soporte técnico** y reparación de equipos
+- Capacitación en herramientas digitales para educación
+
+## 💻 Habilidades Técnicas
+
+### 🛠️ Tecnologías Principales
+- PHP | MySQL | HTML/CSS 
+- Plataforma Moodle
+- Microsoft Office Avanzado
+- Redes LAN
+
+### 🎓 Áreas de Especialización
+- Habilitación docente para formación técnica
+- Metodologías didácticas centradas en el participante
+- Producción de materiales audiovisuales educativos
+- Transformación digital de procesos educativos
+
+## 👨‍🏫 Experiencia Relevante
+
+**🔹 Coordinador Técnico**  
+Politécnico Hogar del Niño (Desde Oct 2024)  
+**🔹 Instructor de Informática**  
+Escuela Vocacional La Romana (Desde 2004)  
+**🔹 Facilitador TIC**  
+INFOTEP (Desde 2008)  
+**🔹 Desarrollador Plataforma Moodle**  
+Colegio Mi Villa Infantil (2021)  
+
+## 📚 Educación y Certificaciones
+
+- **Lic. en Informática** - Universidad del Caribe
+- **Especialización en Habilitación Docente** - U. Fernando Arturo de Meriño
+- **+80 cursos técnicos** en INFOTEP, DIGEV y otras instituciones (2011-2024)
+
+## 🌐 Proyectos Destacados
+
+- Desarrollo e implementación de plataforma Moodle para instituciones educativas
+- Páginas web para firmas de abogados y empresas locales
+- Sistemas de gestión para pequeños negocios
+- Capacitaciones en herramientas digitales para empresas
+
+## 📫 Contacto
+
+¡Abierto a colaboraciones en proyectos educativos y desarrollo de soluciones tecnológicas!  
 📧 **Email**: sigcompv@gmail.com  
-📞 **Tel.**: 809-816-4403  
-
-¡Siempre estoy abierto a colaborar en nuevos proyectos y a compartir conocimiento con la comunidad!
+📞 **Teléfono**: 809-816-4403  
+🏠 **Dirección**: Calle A No. 44, Villa Hermosa, La Romana
