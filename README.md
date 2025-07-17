@@ -57,7 +57,6 @@ Colegio Mi Villa Infantil (2021)
 📞 **Teléfono**: 809-816-4403  
 🏠 **Dirección**: Calle A No. 44, Villa Hermosa, La Romana
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-blue)](https://github.com/InformaticaEmpresarial-Tic-Docente)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-professional)](https://www.linkedin.com/in/victoriano-dominguez-henríquez-614785144)
-[![Portfolio](https://img.shields.io/badge/Portafolio-Proyectos-success)](https://andres-0070.github.io/Portafolio-personal/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61573209977446&locale=es_LA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriano-dominguez-henr%C3%ADquez-614785144) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InformaticaEmpresarial-Tic-Docente/InformaticaEmpresarial-Tic-Docente)
+
 
