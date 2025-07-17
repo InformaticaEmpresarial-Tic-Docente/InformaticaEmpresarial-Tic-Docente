@@ -56,3 +56,7 @@ Colegio Mi Villa Infantil (2021)
 📧 **Email**: sigcompv@gmail.com  
 📞 **Teléfono**: 809-816-4403  
 🏠 **Dirección**: Calle A No. 44, Villa Hermosa, La Romana
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-blue)](https://github.com/InformaticaEmpresarial-Tic-Docente)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-professional)](https://www.linkedin.com/in/victoriano-dominguez-henríquez-614785144)
+[![Portfolio](https://img.shields.io/badge/Portafolio-Proyectos-success)](https://andres-0070.github.io/Portafolio-personal/)
+
